@@ -1,0 +1,375 @@
+Variable,Area,Year,Value,Unit
+GDP per capita,Australia,1998,20999.4302,current US$/inhab
+GDP per capita,Australia,1999,22740.69787,current US$/inhab
+GDP per capita,Australia,2000,21565.3657,current US$/inhab
+GDP per capita,Australia,2001,20326.27671,current US$/inhab
+GDP per capita,Australia,2002,22404.079,current US$/inhab
+GDP per capita,Australia,2003,28448.15593,current US$/inhab
+GDP per capita,Australia,2004,34157.79194,current US$/inhab
+GDP per capita,Australia,2005,37842.50733,current US$/inhab
+GDP per capita,Australia,2006,40067.55454,current US$/inhab
+GDP per capita,Australia,2007,47385.41133,current US$/inhab
+GDP per capita,Australia,2008,49797.81139,current US$/inhab
+GDP per capita,Brazil,1998,5015.540329,current US$/inhab
+GDP per capita,Brazil,1999,3440.522905,current US$/inhab
+GDP per capita,Brazil,2000,3726.8112,current US$/inhab
+GDP per capita,Brazil,2001,3142.234411,current US$/inhab
+GDP per capita,Brazil,2002,2824.714912,current US$/inhab
+GDP per capita,Brazil,2003,3056.648975,current US$/inhab
+GDP per capita,Brazil,2004,3623.223511,current US$/inhab
+GDP per capita,Brazil,2005,4773.269572,current US$/inhab
+GDP per capita,Brazil,2006,5866.024313,current US$/inhab
+GDP per capita,Brazil,2007,7323.190507,current US$/inhab
+GDP per capita,Brazil,2008,8801.759224,current US$/inhab
+GDP per capita,Ethiopia,1998,122.379648,current US$/inhab
+GDP per capita,Ethiopia,1999,112.611423,current US$/inhab
+GDP per capita,Ethiopia,2000,119.796791,current US$/inhab
+GDP per capita,Ethiopia,2001,115.381036,current US$/inhab
+GDP per capita,Ethiopia,2002,108.213069,current US$/inhab
+GDP per capita,Ethiopia,2003,115.54302,current US$/inhab
+GDP per capita,Ethiopia,2004,131.94554,current US$/inhab
+GDP per capita,Ethiopia,2005,157.010384,current US$/inhab
+GDP per capita,Ethiopia,2006,188.017392,current US$/inhab
+GDP per capita,Ethiopia,2007,231.620094,current US$/inhab
+GDP per capita,Ethiopia,2008,303.573787,current US$/inhab
+GDP per capita,Germany,1998,27463.9481,current US$/inhab
+GDP per capita,Germany,1999,26903.1636,current US$/inhab
+GDP per capita,Germany,2000,23827.14818,current US$/inhab
+GDP per capita,Germany,2001,23849.60178,current US$/inhab
+GDP per capita,Germany,2002,25400.67754,current US$/inhab
+GDP per capita,Germany,2003,30683.83891,current US$/inhab
+GDP per capita,Germany,2004,34569.03009,current US$/inhab
+GDP per capita,Germany,2005,35040.70942,current US$/inhab
+GDP per capita,Germany,2006,36857.89479,current US$/inhab
+GDP per capita,Germany,2007,42139.59273,current US$/inhab
+GDP per capita,Germany,2008,45928.11686,current US$/inhab
+GDP per capita,Malaysia,1998,3309.193992,current US$/inhab
+GDP per capita,Malaysia,1999,3538.362993,current US$/inhab
+GDP per capita,Malaysia,2000,4087.562593,current US$/inhab
+GDP per capita,Malaysia,2001,3941.122666,current US$/inhab
+GDP per capita,Malaysia,2002,4177.104942,current US$/inhab
+GDP per capita,Malaysia,2003,4454.526764,current US$/inhab
+GDP per capita,Malaysia,2004,4924.338111,current US$/inhab
+GDP per capita,Malaysia,2005,5536.83797,current US$/inhab
+GDP per capita,Malaysia,2006,6137.15061,current US$/inhab
+GDP per capita,Malaysia,2007,7143.999446,current US$/inhab
+GDP per capita,Malaysia,2008,8343.302548,current US$/inhab
+GDP per capita,United States of America,1998,32855.93347,current US$/inhab
+GDP per capita,United States of America,1999,34497.87757,current US$/inhab
+GDP per capita,United States of America,2000,36299.59097,current US$/inhab
+GDP per capita,United States of America,2001,37068.381,current US$/inhab
+GDP per capita,United States of America,2002,37902.19681,current US$/inhab
+GDP per capita,United States of America,2003,39354.3921,current US$/inhab
+GDP per capita,United States of America,2004,41562.45588,current US$/inhab
+GDP per capita,United States of America,2005,43926.2893,current US$/inhab
+GDP per capita,United States of America,2006,46089.87561,current US$/inhab
+GDP per capita,United States of America,2007,47810.21832,current US$/inhab
+GDP per capita,United States of America,2008,48315.69489,current US$/inhab
+Human Development Index (HDI) [highest = 1],Australia,1998,0.892,
+Human Development Index (HDI) [highest = 1],Australia,1999,0.895,
+Human Development Index (HDI) [highest = 1],Australia,2000,0.898,
+Human Development Index (HDI) [highest = 1],Australia,2001,0.9,
+Human Development Index (HDI) [highest = 1],Australia,2002,0.903,
+Human Development Index (HDI) [highest = 1],Australia,2003,0.904,
+Human Development Index (HDI) [highest = 1],Australia,2004,0.907,
+Human Development Index (HDI) [highest = 1],Australia,2005,0.902,
+Human Development Index (HDI) [highest = 1],Australia,2006,0.905,
+Human Development Index (HDI) [highest = 1],Australia,2007,0.908,
+Human Development Index (HDI) [highest = 1],Australia,2008,0.922,
+Human Development Index (HDI) [highest = 1],Brazil,1998,0.67,
+Human Development Index (HDI) [highest = 1],Brazil,1999,0.675,
+Human Development Index (HDI) [highest = 1],Brazil,2000,0.684,
+Human Development Index (HDI) [highest = 1],Brazil,2001,0.691,
+Human Development Index (HDI) [highest = 1],Brazil,2002,0.698,
+Human Development Index (HDI) [highest = 1],Brazil,2003,0.694,
+Human Development Index (HDI) [highest = 1],Brazil,2004,0.697,
+Human Development Index (HDI) [highest = 1],Brazil,2005,0.7,
+Human Development Index (HDI) [highest = 1],Brazil,2006,0.701,
+Human Development Index (HDI) [highest = 1],Brazil,2007,0.705,
+Human Development Index (HDI) [highest = 1],Brazil,2008,0.716,
+Human Development Index (HDI) [highest = 1],Ethiopia,2000,0.283,
+Human Development Index (HDI) [highest = 1],Ethiopia,2001,0.298,
+Human Development Index (HDI) [highest = 1],Ethiopia,2002,0.306,
+Human Development Index (HDI) [highest = 1],Ethiopia,2003,0.31,
+Human Development Index (HDI) [highest = 1],Ethiopia,2004,0.325,
+Human Development Index (HDI) [highest = 1],Ethiopia,2005,0.346,
+Human Development Index (HDI) [highest = 1],Ethiopia,2006,0.362,
+Human Development Index (HDI) [highest = 1],Ethiopia,2007,0.377,
+Human Development Index (HDI) [highest = 1],Ethiopia,2008,0.394,
+Human Development Index (HDI) [highest = 1],Germany,1998,0.853,
+Human Development Index (HDI) [highest = 1],Germany,1999,0.861,
+Human Development Index (HDI) [highest = 1],Germany,2000,0.869,
+Human Development Index (HDI) [highest = 1],Germany,2001,0.876,
+Human Development Index (HDI) [highest = 1],Germany,2002,0.883,
+Human Development Index (HDI) [highest = 1],Germany,2003,0.889,
+Human Development Index (HDI) [highest = 1],Germany,2004,0.899,
+Human Development Index (HDI) [highest = 1],Germany,2005,0.9,
+Human Development Index (HDI) [highest = 1],Germany,2006,0.91,
+Human Development Index (HDI) [highest = 1],Germany,2007,0.914,
+Human Development Index (HDI) [highest = 1],Germany,2008,0.916,
+Human Development Index (HDI) [highest = 1],Malaysia,1998,0.709,
+Human Development Index (HDI) [highest = 1],Malaysia,1999,0.715,
+Human Development Index (HDI) [highest = 1],Malaysia,2000,0.724,
+Human Development Index (HDI) [highest = 1],Malaysia,2001,0.722,
+Human Development Index (HDI) [highest = 1],Malaysia,2002,0.724,
+Human Development Index (HDI) [highest = 1],Malaysia,2003,0.731,
+Human Development Index (HDI) [highest = 1],Malaysia,2004,0.734,
+Human Development Index (HDI) [highest = 1],Malaysia,2005,0.732,
+Human Development Index (HDI) [highest = 1],Malaysia,2006,0.738,
+Human Development Index (HDI) [highest = 1],Malaysia,2007,0.751,
+Human Development Index (HDI) [highest = 1],Malaysia,2008,0.762,
+Human Development Index (HDI) [highest = 1],United States of America,1998,0.884,
+Human Development Index (HDI) [highest = 1],United States of America,1999,0.885,
+Human Development Index (HDI) [highest = 1],United States of America,2000,0.881,
+Human Development Index (HDI) [highest = 1],United States of America,2001,0.884,
+Human Development Index (HDI) [highest = 1],United States of America,2002,0.886,
+Human Development Index (HDI) [highest = 1],United States of America,2003,0.889,
+Human Development Index (HDI) [highest = 1],United States of America,2004,0.892,
+Human Development Index (HDI) [highest = 1],United States of America,2005,0.896,
+Human Development Index (HDI) [highest = 1],United States of America,2006,0.899,
+Human Development Index (HDI) [highest = 1],United States of America,2007,0.902,
+Human Development Index (HDI) [highest = 1],United States of America,2008,0.907,
+Population density,Australia,1998,2.415861712,inhab/km2
+Population density,Australia,1999,2.442764965,inhab/km2
+Population density,Australia,2000,2.471505913,inhab/km2
+Population density,Australia,2001,2.501599619,inhab/km2
+Population density,Australia,2002,2.531300622,inhab/km2
+Population density,Australia,2003,2.560249418,inhab/km2
+Population density,Australia,2004,2.589601768,inhab/km2
+Population density,Australia,2005,2.621613906,inhab/km2
+Population density,Australia,2006,2.659859686,inhab/km2
+Population density,Australia,2007,2.706879407,inhab/km2
+Population density,Australia,2008,2.760622873,inhab/km2
+Population density,Brazil,1998,19.8642818,inhab/km2
+Population density,Brazil,1999,20.1557279,inhab/km2
+Population density,Brazil,2000,20.43482633,inhab/km2
+Population density,Brazil,2001,20.70290802,inhab/km2
+Population density,Brazil,2002,20.96151998,inhab/km2
+Population density,Brazil,2003,21.21037651,inhab/km2
+Population density,Brazil,2004,21.45139465,inhab/km2
+Population density,Brazil,2005,21.68777468,inhab/km2
+Population density,Brazil,2006,21.91852363,inhab/km2
+Population density,Brazil,2007,22.1415468,inhab/km2
+Population density,Brazil,2008,22.35467867,inhab/km2
+Population density,Ethiopia,1998,57.37890428,inhab/km2
+Population density,Ethiopia,1999,59.20000091,inhab/km2
+Population density,Ethiopia,2000,61.04454768,inhab/km2
+Population density,Ethiopia,2001,62.9247143,inhab/km2
+Population density,Ethiopia,2002,64.86961605,inhab/km2
+Population density,Ethiopia,2003,66.85924387,inhab/km2
+Population density,Ethiopia,2004,68.89179209,inhab/km2
+Population density,Ethiopia,2005,70.96574301,inhab/km2
+Population density,Ethiopia,2006,73.08112832,inhab/km2
+Population density,Ethiopia,2007,75.25420357,inhab/km2
+Population density,Ethiopia,2008,77.46415648,inhab/km2
+Population density,Germany,1998,229.7060163,inhab/km2
+Population density,Germany,1999,228.7714954,inhab/km2
+Population density,Germany,2000,229.1047195,inhab/km2
+Population density,Germany,2001,229.487396,inhab/km2
+Population density,Germany,2002,229.8575118,inhab/km2
+Population density,Germany,2003,229.9787559,inhab/km2
+Population density,Germany,2004,229.9193614,inhab/km2
+Population density,Germany,2005,229.764852,inhab/km2
+Population density,Germany,2006,228.792974,inhab/km2
+Population density,Germany,2007,227.6632372,inhab/km2
+Population density,Germany,2008,227.1310717,inhab/km2
+Population density,Malaysia,1998,66.22343712,inhab/km2
+Population density,Malaysia,1999,67.82204051,inhab/km2
+Population density,Malaysia,2000,69.43112455,inhab/km2
+Population density,Malaysia,2001,71.12012697,inhab/km2
+Population density,Malaysia,2002,72.86117594,inhab/km2
+Population density,Malaysia,2003,74.60581016,inhab/km2
+Population density,Malaysia,2004,76.35058041,inhab/km2
+Population density,Malaysia,2005,78.10178658,inhab/km2
+Population density,Malaysia,2006,79.86066808,inhab/km2
+Population density,Malaysia,2007,81.61544438,inhab/km2
+Population density,Malaysia,2008,83.34358827,inhab/km2
+Population density,United States of America,1998,28.67553767,inhab/km2
+Population density,United States of America,1999,28.95242271,inhab/km2
+Population density,United States of America,2000,29.22375979,inhab/km2
+Population density,United States of America,2001,29.5139902,inhab/km2
+Population density,United States of America,2002,29.80517482,inhab/km2
+Population density,United States of America,2003,30.09833856,inhab/km2
+Population density,United States of America,2004,30.3971492,inhab/km2
+Population density,United States of America,2005,30.70138527,inhab/km2
+Population density,United States of America,2006,31.01425245,inhab/km2
+Population density,United States of America,2007,31.33755044,inhab/km2
+Population density,United States of America,2008,31.01968396,inhab/km2
+Long-term average annual precipitation in volume,Australia,1998,4133.81148,10^9 m3/year
+Long-term average annual precipitation in volume,Australia,1999,4133.81148,10^9 m3/year
+Long-term average annual precipitation in volume,Australia,2000,4133.81148,10^9 m3/year
+Long-term average annual precipitation in volume,Australia,2001,4133.81148,10^9 m3/year
+Long-term average annual precipitation in volume,Australia,2002,4133.81148,10^9 m3/year
+Long-term average annual precipitation in volume,Australia,2003,4133.81148,10^9 m3/year
+Long-term average annual precipitation in volume,Australia,2004,4133.81148,10^9 m3/year
+Long-term average annual precipitation in volume,Australia,2005,4133.81148,10^9 m3/year
+Long-term average annual precipitation in volume,Australia,2006,4133.81148,10^9 m3/year
+Long-term average annual precipitation in volume,Australia,2007,4133.81148,10^9 m3/year
+Long-term average annual precipitation in volume,Australia,2008,4133.81148,10^9 m3/year
+Long-term average annual precipitation in volume,Brazil,1998,15175.10214,10^9 m3/year
+Long-term average annual precipitation in volume,Brazil,1999,15175.10214,10^9 m3/year
+Long-term average annual precipitation in volume,Brazil,2000,15175.10214,10^9 m3/year
+Long-term average annual precipitation in volume,Brazil,2001,15175.10214,10^9 m3/year
+Long-term average annual precipitation in volume,Brazil,2002,14995,10^9 m3/year
+Long-term average annual precipitation in volume,Brazil,2003,15175.10214,10^9 m3/year
+Long-term average annual precipitation in volume,Brazil,2004,15175.10214,10^9 m3/year
+Long-term average annual precipitation in volume,Brazil,2005,15175.10214,10^9 m3/year
+Long-term average annual precipitation in volume,Brazil,2006,15175.10214,10^9 m3/year
+Long-term average annual precipitation in volume,Brazil,2007,14995,10^9 m3/year
+Long-term average annual precipitation in volume,Brazil,2008,14996.27097,10^9 m3/year
+Long-term average annual precipitation in volume,Ethiopia,1998,936.4464,10^9 m3/year
+Long-term average annual precipitation in volume,Ethiopia,1999,936.4464,10^9 m3/year
+Long-term average annual precipitation in volume,Ethiopia,2000,936.4464,10^9 m3/year
+Long-term average annual precipitation in volume,Ethiopia,2001,936.4464,10^9 m3/year
+Long-term average annual precipitation in volume,Ethiopia,2002,936.4464,10^9 m3/year
+Long-term average annual precipitation in volume,Ethiopia,2003,936.4464,10^9 m3/year
+Long-term average annual precipitation in volume,Ethiopia,2004,936.4464,10^9 m3/year
+Long-term average annual precipitation in volume,Ethiopia,2005,936.4464,10^9 m3/year
+Long-term average annual precipitation in volume,Ethiopia,2006,936.4464,10^9 m3/year
+Long-term average annual precipitation in volume,Ethiopia,2007,936.4464,10^9 m3/year
+Long-term average annual precipitation in volume,Ethiopia,2008,936.4464,10^9 m3/year
+Long-term average annual precipitation in volume,Germany,1998,249.921,10^9 m3/year
+Long-term average annual precipitation in volume,Germany,1999,249.921,10^9 m3/year
+Long-term average annual precipitation in volume,Germany,2000,249.921,10^9 m3/year
+Long-term average annual precipitation in volume,Germany,2001,249.921,10^9 m3/year
+Long-term average annual precipitation in volume,Germany,2002,249.928,10^9 m3/year
+Long-term average annual precipitation in volume,Germany,2003,249.928,10^9 m3/year
+Long-term average annual precipitation in volume,Germany,2004,249.935,10^9 m3/year
+Long-term average annual precipitation in volume,Germany,2005,249.963,10^9 m3/year
+Long-term average annual precipitation in volume,Germany,2006,249.97,10^9 m3/year
+Long-term average annual precipitation in volume,Germany,2007,249.97,10^9 m3/year
+Long-term average annual precipitation in volume,Germany,2008,249.977,10^9 m3/year
+Long-term average annual precipitation in volume,Malaysia,1998,951.05,10^9 m3/year
+Long-term average annual precipitation in volume,Malaysia,1999,951.05,10^9 m3/year
+Long-term average annual precipitation in volume,Malaysia,2000,951.05,10^9 m3/year
+Long-term average annual precipitation in volume,Malaysia,2001,951.05,10^9 m3/year
+Long-term average annual precipitation in volume,Malaysia,2002,951.05,10^9 m3/year
+Long-term average annual precipitation in volume,Malaysia,2003,951.05,10^9 m3/year
+Long-term average annual precipitation in volume,Malaysia,2004,951.05,10^9 m3/year
+Long-term average annual precipitation in volume,Malaysia,2005,951.05,10^9 m3/year
+Long-term average annual precipitation in volume,Malaysia,2006,951.05,10^9 m3/year
+Long-term average annual precipitation in volume,Malaysia,2007,951.05,10^9 m3/year
+Long-term average annual precipitation in volume,Malaysia,2008,951.05,10^9 m3/year
+Long-term average annual precipitation in volume,United States of America,1998,6884.79935,10^9 m3/year
+Long-term average annual precipitation in volume,United States of America,1999,6884.79935,10^9 m3/year
+Long-term average annual precipitation in volume,United States of America,2000,6886.90145,10^9 m3/year
+Long-term average annual precipitation in volume,United States of America,2001,6886.90145,10^9 m3/year
+Long-term average annual precipitation in volume,United States of America,2002,6886.90145,10^9 m3/year
+Long-term average annual precipitation in volume,United States of America,2003,6886.90145,10^9 m3/year
+Long-term average annual precipitation in volume,United States of America,2004,6886.90145,10^9 m3/year
+Long-term average annual precipitation in volume,United States of America,2005,6886.90145,10^9 m3/year
+Long-term average annual precipitation in volume,United States of America,2006,6886.90145,10^9 m3/year
+Long-term average annual precipitation in volume,United States of America,2007,6886.90145,10^9 m3/year
+Long-term average annual precipitation in volume,United States of America,2008,7029.52965,10^9 m3/year
+Total renewable water resources,Australia,1998,492,10^9 m3/year
+Total renewable water resources,Australia,1999,492,10^9 m3/year
+Total renewable water resources,Australia,2000,492,10^9 m3/year
+Total renewable water resources,Australia,2001,492,10^9 m3/year
+Total renewable water resources,Australia,2002,492,10^9 m3/year
+Total renewable water resources,Australia,2003,492,10^9 m3/year
+Total renewable water resources,Australia,2004,492,10^9 m3/year
+Total renewable water resources,Australia,2005,492,10^9 m3/year
+Total renewable water resources,Australia,2006,492,10^9 m3/year
+Total renewable water resources,Australia,2007,492,10^9 m3/year
+Total renewable water resources,Australia,2008,492,10^9 m3/year
+Total renewable water resources,Brazil,1998,8647,10^9 m3/year
+Total renewable water resources,Brazil,1999,8647,10^9 m3/year
+Total renewable water resources,Brazil,2000,8647,10^9 m3/year
+Total renewable water resources,Brazil,2001,8647,10^9 m3/year
+Total renewable water resources,Brazil,2002,8647,10^9 m3/year
+Total renewable water resources,Brazil,2003,8647,10^9 m3/year
+Total renewable water resources,Brazil,2004,8647,10^9 m3/year
+Total renewable water resources,Brazil,2005,8647,10^9 m3/year
+Total renewable water resources,Brazil,2006,8647,10^9 m3/year
+Total renewable water resources,Brazil,2007,8647,10^9 m3/year
+Total renewable water resources,Brazil,2008,8647,10^9 m3/year
+Total renewable water resources,Ethiopia,1998,122,10^9 m3/year
+Total renewable water resources,Ethiopia,1999,122,10^9 m3/year
+Total renewable water resources,Ethiopia,2000,122,10^9 m3/year
+Total renewable water resources,Ethiopia,2001,122,10^9 m3/year
+Total renewable water resources,Ethiopia,2002,122,10^9 m3/year
+Total renewable water resources,Ethiopia,2003,122,10^9 m3/year
+Total renewable water resources,Ethiopia,2004,122,10^9 m3/year
+Total renewable water resources,Ethiopia,2005,122,10^9 m3/year
+Total renewable water resources,Ethiopia,2006,122,10^9 m3/year
+Total renewable water resources,Ethiopia,2007,122,10^9 m3/year
+Total renewable water resources,Ethiopia,2008,122,10^9 m3/year
+Total renewable water resources,Germany,1998,154,10^9 m3/year
+Total renewable water resources,Germany,1999,154,10^9 m3/year
+Total renewable water resources,Germany,2000,154,10^9 m3/year
+Total renewable water resources,Germany,2001,154,10^9 m3/year
+Total renewable water resources,Germany,2002,154,10^9 m3/year
+Total renewable water resources,Germany,2003,154,10^9 m3/year
+Total renewable water resources,Germany,2004,154,10^9 m3/year
+Total renewable water resources,Germany,2005,154,10^9 m3/year
+Total renewable water resources,Germany,2006,154,10^9 m3/year
+Total renewable water resources,Germany,2007,154,10^9 m3/year
+Total renewable water resources,Germany,2008,154,10^9 m3/year
+Total renewable water resources,Malaysia,1998,580,10^9 m3/year
+Total renewable water resources,Malaysia,1999,580,10^9 m3/year
+Total renewable water resources,Malaysia,2000,580,10^9 m3/year
+Total renewable water resources,Malaysia,2001,580,10^9 m3/year
+Total renewable water resources,Malaysia,2002,580,10^9 m3/year
+Total renewable water resources,Malaysia,2003,580,10^9 m3/year
+Total renewable water resources,Malaysia,2004,580,10^9 m3/year
+Total renewable water resources,Malaysia,2005,580,10^9 m3/year
+Total renewable water resources,Malaysia,2006,580,10^9 m3/year
+Total renewable water resources,Malaysia,2007,580,10^9 m3/year
+Total renewable water resources,Malaysia,2008,580,10^9 m3/year
+Total renewable water resources,United States of America,1998,3069,10^9 m3/year
+Total renewable water resources,United States of America,1999,3069,10^9 m3/year
+Total renewable water resources,United States of America,2000,3069,10^9 m3/year
+Total renewable water resources,United States of America,2001,3069,10^9 m3/year
+Total renewable water resources,United States of America,2002,3069,10^9 m3/year
+Total renewable water resources,United States of America,2003,3069,10^9 m3/year
+Total renewable water resources,United States of America,2004,3069,10^9 m3/year
+Total renewable water resources,United States of America,2005,3069,10^9 m3/year
+Total renewable water resources,United States of America,2006,3069,10^9 m3/year
+Total renewable water resources,United States of America,2007,3069,10^9 m3/year
+Total renewable water resources,United States of America,2008,3069,10^9 m3/year
+SDG 6.4.1. Water Use Efficiency,Australia,2006,50.46720648,US$/m3
+SDG 6.4.1. Water Use Efficiency,Australia,2007,56.0479135,US$/m3
+SDG 6.4.1. Water Use Efficiency,Australia,2008,62.18092652,US$/m3
+SDG 6.4.1. Water Use Efficiency,Brazil,1998,17.50685612,US$/m3
+SDG 6.4.1. Water Use Efficiency,Brazil,1999,17.11301859,US$/m3
+SDG 6.4.1. Water Use Efficiency,Brazil,2000,17.1784065,US$/m3
+SDG 6.4.1. Water Use Efficiency,Brazil,2001,17.25642866,US$/m3
+SDG 6.4.1. Water Use Efficiency,Brazil,2002,17.76111265,US$/m3
+SDG 6.4.1. Water Use Efficiency,Brazil,2003,17.64961656,US$/m3
+SDG 6.4.1. Water Use Efficiency,Brazil,2004,18.47084634,US$/m3
+SDG 6.4.1. Water Use Efficiency,Brazil,2005,19.19046647,US$/m3
+SDG 6.4.1. Water Use Efficiency,Brazil,2006,19.91347745,US$/m3
+SDG 6.4.1. Water Use Efficiency,Brazil,2007,19.75299742,US$/m3
+SDG 6.4.1. Water Use Efficiency,Brazil,2008,19.2303534,US$/m3
+SDG 6.4.1. Water Use Efficiency,Ethiopia,2002,1.855413756,US$/m3
+SDG 6.4.1. Water Use Efficiency,Ethiopia,2003,1.645042635,US$/m3
+SDG 6.4.1. Water Use Efficiency,Ethiopia,2004,1.579550323,US$/m3
+SDG 6.4.1. Water Use Efficiency,Ethiopia,2005,1.53533186,US$/m3
+SDG 6.4.1. Water Use Efficiency,Ethiopia,2006,1.639129374,US$/m3
+SDG 6.4.1. Water Use Efficiency,Ethiopia,2007,1.78490161,US$/m3
+SDG 6.4.1. Water Use Efficiency,Ethiopia,2008,1.825527381,US$/m3
+SDG 6.4.1. Water Use Efficiency,Germany,2006,68.37365699,US$/m3
+SDG 6.4.1. Water Use Efficiency,Germany,2007,71.78005987,US$/m3
+SDG 6.4.1. Water Use Efficiency,Germany,2008,71.99278178,US$/m3
+SDG 6.4.1. Water Use Efficiency,Malaysia,1998,22.04598031,US$/m3
+SDG 6.4.1. Water Use Efficiency,Malaysia,1999,23.70410735,US$/m3
+SDG 6.4.1. Water Use Efficiency,Malaysia,2000,25.81450099,US$/m3
+SDG 6.4.1. Water Use Efficiency,Malaysia,2001,26.13563055,US$/m3
+SDG 6.4.1. Water Use Efficiency,Malaysia,2002,27.12698432,US$/m3
+SDG 6.4.1. Water Use Efficiency,Malaysia,2003,28.5493724,US$/m3
+SDG 6.4.1. Water Use Efficiency,Malaysia,2004,30.4165645,US$/m3
+SDG 6.4.1. Water Use Efficiency,Malaysia,2005,31.14579781,US$/m3
+SDG 6.4.1. Water Use Efficiency,Malaysia,2006,32.85428186,US$/m3
+SDG 6.4.1. Water Use Efficiency,Malaysia,2007,34.47364747,US$/m3
+SDG 6.4.1. Water Use Efficiency,Malaysia,2008,36.02820696,US$/m3
+SDG 6.4.1. Water Use Efficiency,United States of America,1998,22.28338802,US$/m3
+SDG 6.4.1. Water Use Efficiency,United States of America,1999,23.38984125,US$/m3
+SDG 6.4.1. Water Use Efficiency,United States of America,2000,24.33393406,US$/m3
+SDG 6.4.1. Water Use Efficiency,United States of America,2001,24.54297865,US$/m3
+SDG 6.4.1. Water Use Efficiency,United States of America,2002,24.94224352,US$/m3
+SDG 6.4.1. Water Use Efficiency,United States of America,2003,25.58964958,US$/m3
+SDG 6.4.1. Water Use Efficiency,United States of America,2004,26.50548184,US$/m3
+SDG 6.4.1. Water Use Efficiency,United States of America,2005,27.36390398,US$/m3
+SDG 6.4.1. Water Use Efficiency,United States of America,2006,28.96166972,US$/m3
+SDG 6.4.1. Water Use Efficiency,United States of America,2007,30.5507242,US$/m3
+SDG 6.4.1. Water Use Efficiency,United States of America,2008,31.42603199,US$/m3
